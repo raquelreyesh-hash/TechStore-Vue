@@ -42,7 +42,7 @@ main.js
 
 Clonar el repositorio:
 
-git clone https://github.com/raquelreyesh-hash/TechStore-Vue.git
+git clone https://github.com/raquelreyesh-hash/TechStore-Vue
 
 Entrar al proyecto:
 
